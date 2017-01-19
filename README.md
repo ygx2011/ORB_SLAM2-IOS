@@ -11,5 +11,5 @@ Unzip orbslam2ios.zip and put the dependency folder and opencv2.framework in the
 You can do some AR projects. If you are interested in SLAM-AR, you can see my another project [Stereo-SLAM-AR](https://github.com/ygx2011/Stereo_SLAM_AR).
 
 <a href="https://www.youtube.com/watch?v=30avTIfaK2k&t=26s
-" target="_blank"><img src="http://img.youtube.com/vi/30avTIfaK2k&t=26s/0.jpg"
+" target="_blank"><img src="http://img.youtube.com/vi/30avTIfaK2k/0.jpg"
 alt="slam-ar" width="240" height="180" border="10" /></a>
